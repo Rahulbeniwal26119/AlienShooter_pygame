@@ -6,7 +6,7 @@ class Setting:
         self.screen_width = 1200  # as the screen_width changed from the AlienAttack __init__ method
         self.screen_height = 700
         self.bg_color = (0, 0, 0)
-        self.bullet_width = 300
+        self.bullet_width = 5
         self.bullet_height = 15
         self.bullet_color = (225, 225, 225)
         self.bullet_alloewed = 3
